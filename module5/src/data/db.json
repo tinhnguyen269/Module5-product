@@ -1,0 +1,87 @@
+{
+  "products": [
+    {
+      "productCode": "PROD-0001",
+      "name": "Blackmores Omega Double High Strength Fish Oil",
+      "quantity": 1000,
+      "price": 598000,
+      "date": "2022/01/24",
+      "describe" : "",
+      "catory" : {
+        "id" : 1,
+        "name" : "Thực phẩm chức năng"
+
+      }
+    },
+    {
+      "productCode": "PROD-0002",
+      "name": "Blackmores CoQ10 150mg",
+      "TheLoai": "Thực phẩm chức năng",
+      "quantity": 100,
+      "price": 513000,
+      "date": "2022/10/15",
+      "describe" : "",
+      "catory" : {
+        "id" : 1,
+        "name" : "Thực phẩm chức năng"
+
+      }
+    },
+    {
+      "productCode": "PROD-0003",
+      "name": "Máy đo huyết áp bắp tay Microlife B3 Basic",
+      "quantity": 500,
+      "price": 1350000,
+      "date": "2023/02/03",
+      "describe" : "",
+      "catory" : {
+        "id" : 2,
+        "name" : "Thiết bị y tế"
+
+      }
+    },
+    {
+      "productCode": "PROD-0004",
+      "name": "Efferalgan",
+      "quantity": 65,
+      "price": 30000,
+      "date": "2021/11/11",
+      "describe" : "",
+      "catory" : {
+        "id" : 3,
+        "name" : "Dược phẩm"
+      }
+    },
+    {
+      "productCode": "PROD-0005",
+      "name": "Nhiệt kế hồng ngoại Kachi JXB-315",
+      "quantity": 20,
+      "price": 768000,
+      "date": "2022/10/15",
+      "describe" : "",
+      "catory" :  {
+        "id" : 2,
+        "name" : "Thiết bị y tế"
+      }
+    }
+  ],
+
+
+
+  "catorys" : [
+    {
+      "id" : 1,
+      "name" : "Thực phẩm chức năng"
+
+    },
+    {
+      "id" : 2,
+      "name" : "Thiết bị y tế"
+
+    },
+    {
+      "id" : 3,
+      "name" : "Dược phẩm"
+    }
+  ]
+}
